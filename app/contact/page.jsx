@@ -16,7 +16,7 @@ const page = () => {
                 </div>
 
                 <div className="mt-6">
-                    <label for="subject">Subject:</label><br />
+                    <label for="subject">Subjects:</label><br />
                     <textarea className='h-60 mt-3 w-1/2' id="subject" name="subject" placeholder="Write something"></textarea>
                     <br />
                 </div>
